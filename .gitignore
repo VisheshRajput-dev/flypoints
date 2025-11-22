@@ -39,3 +39,26 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+# Frontend/JavaScript/TypeScript build artifacts
+/dist
+/build
+/lib
+.tmp
+.temp
+
+# Next.js output
+/.next
+/out
+
+# Vite output
+/dist
+
+# Storybook build
+/storybook-static
+
+# Expo / React Native
+.expo
+
+# misc IDE & tool build output
+/.turbo
+
