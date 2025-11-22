@@ -42,7 +42,6 @@ next-env.d.ts
 # Frontend/JavaScript/TypeScript build artifacts
 /dist
 /build
-/lib
 .tmp
 .temp
 
